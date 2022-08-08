@@ -6,16 +6,16 @@
     "SYMBOL": "ETH",
     "ID": 1
   },
-  "NFT_NAME": "PepAI",
-  "SYMBOL": "PEPAI",
+  "NFT_NAME": "PepeAI",
+  "SYMBOL": "PEPEAI",
   "MAX_SUPPLY": 420,
   "DISPLAY_COST": 0.005,
   "GAS_LIMIT": 145000,
   "MAX_PER_TX": 3,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/pepai",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/pepeai",
   "Telegram": "https://",
   "Discord": "https://",
-  "Twitter": "https://twitter.com/PepAI_NFT",
+  "Twitter": "https://twitter.com/PepeAI_NFT",
   "SHOW_BACKGROUND": false
 }
