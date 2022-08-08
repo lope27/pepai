@@ -11,7 +11,7 @@
   "MAX_SUPPLY": 420,
   "DISPLAY_COST": 0.005,
   "GAS_LIMIT": 145000,
-  "MAX_PER_TX": 3,
+  "MAX_PER_TX": 5,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/pepeai-art",
   "Telegram": "https://",
