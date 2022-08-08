@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a1ead175.chunk.css",
+    "main.js": "/static/js/main.feee0551.chunk.js",
+    "main.js.map": "/static/js/main.feee0551.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0c89b94a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0c89b94a.js.map",
+    "static/css/2.966d247e.chunk.css": "/static/css/2.966d247e.chunk.css",
+    "static/js/2.36969576.chunk.js": "/static/js/2.36969576.chunk.js",
+    "static/js/2.36969576.chunk.js.map": "/static/js/2.36969576.chunk.js.map",
+    "static/js/3.ed55bcc9.chunk.js": "/static/js/3.ed55bcc9.chunk.js",
+    "static/js/3.ed55bcc9.chunk.js.map": "/static/js/3.ed55bcc9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.966d247e.chunk.css.map": "/static/css/2.966d247e.chunk.css.map",
+    "static/css/main.a1ead175.chunk.css.map": "/static/css/main.a1ead175.chunk.css.map",
+    "static/js/2.36969576.chunk.js.LICENSE.txt": "/static/js/2.36969576.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/static/media/Poppins-Medium.88233218.woff",
+    "static/media/RenoMono.8b239c68.otf": "/static/media/RenoMono.8b239c68.otf",
+    "static/media/index.less": "/static/media/index.2979fe4b.less",
+    "static/media/upheavtt.e3d365ba.ttf": "/static/media/upheavtt.e3d365ba.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c89b94a.js",
+    "static/css/2.966d247e.chunk.css",
+    "static/js/2.36969576.chunk.js",
+    "static/css/main.a1ead175.chunk.css",
+    "static/js/main.feee0551.chunk.js"
+  ]
+}

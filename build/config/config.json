@@ -1,0 +1,21 @@
+{
+  "CONTRACT_ADDRESS": "0x6DA1784880e012366455a85E07C1614a1c8CEfB8",
+  "SCAN_LINK": "https://etherscan.io/address/0x6da1784880e012366455a85e07c1614a1c8cefb8",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "PepAI",
+  "SYMBOL": "PEPAI",
+  "MAX_SUPPLY": 420,
+  "DISPLAY_COST": 0.005,
+  "GAS_LIMIT": 145000,
+  "MAX_PER_TX": 3,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/pepai",
+  "Telegram": "https://",
+  "Discord": "https://",
+  "Twitter": "https://twitter.com/PepAI_NFT",
+  "SHOW_BACKGROUND": false
+}
